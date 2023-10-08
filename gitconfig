@@ -50,5 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = contact@ashleyignatius.com
+	email = ashley.yeo@lewagon.org
 	name = Ashley Yeo
+[init]
+	defaultBranch = main
