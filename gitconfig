@@ -50,7 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = ashley.yeo@lewagon.org
-	name = Ashley Yeo
+	email = Yeo
+	name = Ashley
 [init]
 	defaultBranch = main
